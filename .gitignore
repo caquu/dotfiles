@@ -1,0 +1,11 @@
+/*
+/.*
+
+!/.vim
+/.vim/swap
+/.vim/backup
+!/.vimrc
+!/.gitignore
+!/.bashrc
+!/.tmux.conf
+
